@@ -1,5 +1,5 @@
 ## OS Lab Assignments
- My All OS Lab Assignments, TEIT , SPPU. 
+ My All Operating System(SL2) Assignments, TEIT , SPPU. 
  
 ## Statements
 Assignment No. 1
