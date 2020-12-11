@@ -23,27 +23,27 @@ Assignment No. 2:
 	integer array and passes the sorted array to child process through the command line arguments
 	of EXECVE system call. The child process uses EXECVE system call to load new program that uses
 	this sorted array for performing the binary search to search the particular item in the array.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 3: 
 
 	Implement multithreading for Matrix Multiplication using pthreads.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 4: 
 
 	Thread synchronization using counting semaphores. Application to demonstrate:
 	producer-consumer problem with counting semaphores and mutex.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 5: 
 
 	Thread synchronization and mutual exclusion using mutex. Application to demonstrate:
 	Reader-Writer problem with reader priority.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 6: 
 
 	Deadlock Avoidance Using Semaphores: Implement the deadlock-free solution to Dining
 	Philosophers problem to illustrate the problem of deadlock and/or starvation that can occur when many
 	synchronized threads are competing for limited resources.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 7: 
 
 	Inter process communication in Linux using following.
@@ -57,19 +57,19 @@ Assignment No. 7:
 	number of characters, number of words and number of lines in accepted sentences, writes this
 	output in a text file and writes the contents of the file on second pipe to be read by first process 
 	and displays on standard output.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 8: 
 
 	Inter-process Communication using Shared Memory using System V. Application to
 	demonstrate: Client and Server Programs in which server process creates a shared memory segment and
 	writes the message to the shared memory segment. Client process reads the message from the shared
 	memory segment and displays it to the screen.
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 9: 
 
 	Implement an assignment using File Handling System Calls (Low level system calls like
 	open, read, write, etc).
-
+------------------------------------------------------------------------------------------------------------------
 Assignment No. 10: 
 
 	Implement a new system call in the kernel space, add this new system call in the Linux
