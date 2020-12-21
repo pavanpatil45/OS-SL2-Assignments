@@ -1,9 +1,3 @@
-/*
-        ASSIGNMENT NO. 3
-        MATRIX MULTIPLICATION
-*/
-
-
 #include<stdio.h>
 #include<pthread.h>
 #define size 10
@@ -91,40 +85,3 @@ int main()
   else printf("\n Multiplication not possible!");
   return 0;
 }
-
-/*
-OUTPUT:
-papiha@papiha:~/Desktop/41/SL II$ gcc exp3.c -lpthread
-papiha@papiha:~/Desktop/41/SL II$ ./a.out
-
- Enter no. of rows and columns of matrix A:3 3
-
- Enter values:
-1 2 3
-1 2 3
-1 2 3
-
- Enter no. of rows and columns of matrix B:3 2
-
- Enter values:
-1 2
-1 2
-1 2
-
-Matrix A:
-
-1	2	3	
-1	2	3	
-1	2	3	
-Matrix B:
-
-1	2	
-1	2	
-1	2	
-Matrix A:
-
-6	12	
-6	12	
-6	12	
-
-*/
